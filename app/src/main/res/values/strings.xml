@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoGaga</string>
+    <string name="ref_friends"><u>0 referred friend</u></string>
+    <string name="claim_100_cash"><u>Claim \u20B9100 cash</u></string>
+</resources>
