@@ -9,4 +9,5 @@ GoGaga internship assignment.
 <img src="assets/2.jpg" width="250">
 <br>
 <br>
-<a href="https://github.com/divijgupta970/GoGagaAssignment/blob/master/assets/app-debug.apk">Download apk</a>
+<a href="https://github.com/divijgupta970/GoGagaAssignment/blob/master/assets/app-debug.apk">Download apk</a><br>
+Apk size is large because of the profile image
